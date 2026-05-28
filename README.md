@@ -44,8 +44,8 @@ python3 -m pip install -r requirements.txt
 Set your Spotify credentials in the terminal:
 
 ```bash
-export SPOTIFY_CLIENT_ID="8acc370a467942c8816267c7cdf4024c"
-export SPOTIFY_CLIENT_SECRET="ffa67fe974624d19803973602cf73e09"
+export SPOTIFY_CLIENT_ID="my_client_id"
+export SPOTIFY_CLIENT_SECRET="my_client_secret"
 export SPOTIFY_REDIRECT_URI="http://127.0.0.1:8888/callback"
 export PLAYLIST_NAME="Imported from CSV"
 ```
